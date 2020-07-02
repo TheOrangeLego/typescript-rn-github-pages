@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "entryPoint": "./src/Application.tsx",
+    "name": "<website name>",
+    "slug": "<website slug>",
+    "version": "0.0.1"
+  }
+}
